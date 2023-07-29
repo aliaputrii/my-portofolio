@@ -129,7 +129,7 @@ import { Avatar } from 'flowbite-vue'
 <br>
 <center>
   <div class="container mx-auto" >
-<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><u>SKILL'S GALERY</u></h5><br>
+<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><u>SKILL'S GALLERY</u></h5><br>
 <div class="grid grid-cols-2 gap-2">
         <div>
             <img class="h-auto max-w-full rounded-lg" src="./img/saman.jpg" style="width: 700px;" alt="">
@@ -151,7 +151,7 @@ import { Avatar } from 'flowbite-vue'
 <br>
 <center>
   <div class="container mx-auto" >
-<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><u>GALERY</u></h5><br>
+<h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white"><u>GALLERY</u></h5><br>
   <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
     <div class="grid gap-4">
         <div>

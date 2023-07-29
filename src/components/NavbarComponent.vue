@@ -10,6 +10,7 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
       <template #default="{isShowMenu}">
         <NavbarCollapse :isShowMenu="isShowMenu">
           <NavbarLink is-active>Home</NavbarLink>
+          <NavbarLink>Gallery</NavbarLink>
           <ul class="text-black-500 dark:text-black-900 font-medium">
                       <li class="mb-2,5">
                           <a href="https://api.whatsapp.com/send?phone=6283120853975" class="hover:underline">Contact</a>
